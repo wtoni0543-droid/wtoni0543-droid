@@ -1,14 +1,35 @@
-# 👋 Привет, я NoiZoN
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b8cff,100:1a1a2e&height=180&section=header&text=NoiZoN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=6B8CFF&center=true&vCenter=true&width=435&lines=2-й+курс+IT+Хаба;Python+%26+C%23;Создаю+игры+и+не+только" />
+</p>
+
+---
+
+### 👨‍💻 Обо мне
 
 🎓 Студент IT Хаба, 2-й курс  
 💻 Изучаю Python и C#  
-🎮 Пишу игры и учусь создавать крутые вещи  
+🎮 Пишу рогалики и учусь делать крутые вещи  
 
 ---
 
-### 📫 Связаться со мной
+### 🛠 Технологии
 
-📩 Telegram: @NoiZoNxSolo
+!Python
+!C#
+!Git
+
 ---
 
-> *Превращаю идеи в код*
+### 📩 Связь
+
+![Telegram](https://t.me/NoiZoNxSolo)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6b8cff&height=100&section=footer" />
+</p>
