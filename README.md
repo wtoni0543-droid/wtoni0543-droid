@@ -7,30 +7,40 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/RLVhZPUI91IAAAAd/gojo-satoru-jujutsu-kaisen.gif" width="600" height="250" style="border-radius: 16px;" />
+  <img src="https://i.pinimg.com/originals/9a/2a/09/9a2a09d0c13ae60d6a7c32fb571e2c1c.gif" width="600" height="250" style="border-radius: 16px;" />
 </p>
 
 ---
 
 ### 👨‍💻 Обо мне
 
-🎓 Студент IT Хаба, 2-й курс  
-💻 Изучаю Python и C#  
+🎓 Студент **IT Хаба**, 2-й курс  
+💻 Изучаю **Python** и **C#**  
 🎮 Пишу рогалики и учусь делать крутые вещи  
+🔗 Мой проект: [Roguelike](https://github.com/wtoni0543-droid/Roguelike)
 
 ---
 
 ### 🛠 Технологии
 
-Python
-C#
-Git
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+---
+
+### 📊 Статистика
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wtoni0543-droid&show_icons=true&theme=radical&hide_border=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wtoni0543-droid&layout=compact&theme=radical&hide_border=true" width="47%" />
+</p>
 
 ---
 
 ### 📩 Связь
 
-Telegram: @NoiZoNxSolo
+**Telegram:** @NoiZoNxSolo
 
 ---
 
