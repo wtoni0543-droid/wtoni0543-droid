@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b8cff,100:1a1a2e&height=180&section=header&text=NoiZoN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:6b8cff&height=180&section=header&text=NoiZoN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <p align="center">
@@ -30,6 +30,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b8cff,100:0a0a1a&height=100&section=footer" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6b8cff&height=100&section=footer" />
 </p>
