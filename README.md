@@ -8,7 +8,7 @@
 
 ### 📫 Связаться со мной
 
-![Telegram](https://t.me/NoiZoNxSolo)
+📩 Telegram: @NoiZoNxSolo
 
 ---
 
