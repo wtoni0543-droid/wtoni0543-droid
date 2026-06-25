@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:6b8cff&height=180&section=header&text=NoiZoN&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://media.tenor.com/RLVhZPUI91IAAAAd/gojo-satoru-jujutsu-kaisen.gif" width="100%" height="250" style="object-fit: cover; border-radius: 12px;" />
 </p>
 
 <p align="center">
