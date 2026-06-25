@@ -22,15 +22,15 @@
 
 ### 🛠 Технологии
 
-!Python
-!C#
-!Git
+Python
+C#
+Git
 
 ---
 
 ### 📩 Связь
 
-![Telegram](https://t.me/NoiZoNxSolo)
+Telegram: @NoiZoNxSolo
 
 ---
 
