@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/RLVhZPUI91IAAAAd/gojo-satoru-jujutsu-kaisen.gif" width="600" height="250" style="border-radius: 16px;" />
+  <img src="https://i.pinimg.com/originals/9a/2a/09/9a2a09d0c13ae60d6a7c32fb571e2c1c.gif" width="600" height="250" style="border-radius: 16px;" />
 </p>
 
 ---
