@@ -1,6 +1,15 @@
-Студент IT Хаба, 2-й курс.
+# 👋 Привет, я NoiZoN
 
-Изучаю Python и C#.
+🎓 Студент IT Хаба, 2-й курс  
+💻 Изучаю Python и C#  
+🎮 Пишу игры и учусь создавать крутые вещи  
 
-![Python](https://www.python.org/)
-![C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+---
+
+### 📫 Связаться со мной
+
+![Telegram](https://t.me/NoiZoNxSolo)
+
+---
+
+> *Превращаю идеи в код*
